@@ -1,2 +1,2 @@
 # MNwebpage
-http://mcleod805.github.io/
+http://mcleod805.github.io/index.html
