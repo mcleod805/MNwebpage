@@ -1,13 +1,13 @@
 body{
-    background-color: lightblue;
+    background-color: red;
     }
     
     p{
     font-size:200%
-    color:purple;
+    color:orange;
     }
 
 img {
     padding: 25px;
-    border:25px solid red;
+    border:25px solid brown;
     margin:50px;
