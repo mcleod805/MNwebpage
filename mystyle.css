@@ -6,3 +6,8 @@ body{
     font-size:200%
     color:purple;
     }
+
+img {
+    padding: 25px;
+    border:25px solid red;
+    margin:50px;
