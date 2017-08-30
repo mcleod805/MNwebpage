@@ -1,5 +1,5 @@
 body{
-    background-color: lightgreen;
+    background-color: darkbrown;
     }
     
     p{
@@ -9,5 +9,5 @@ body{
 
 img {
     padding: 25px;
-    border:25px solid blue;
+    border:25px solid red;
     margin:50px;
