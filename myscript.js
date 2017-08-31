@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $("#p1").click(function(){
-      $(".disappear").toggle();
+  $("p").click(function(){
+      $("#p2").hide();
      });
 });
